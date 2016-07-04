@@ -11,7 +11,7 @@ public abstract class Coffee extends Beverage{
     public abstract void serve();
 
     public int getNumOfSpoons() {
-        return numOfSpoons;
+        return null;
     }
     public void setNumOfSpoons(int numOfSpoons) {
         this.numOfSpoons = numOfSpoons;
